@@ -66,3 +66,5 @@ export default function Home() {
   );
 }
 ```
+
+Is it a normal behaviour ? Is there a way to fix that ?
